@@ -2,6 +2,6 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Day8.calculate()
+        Day9.calculate()
     End Sub
 End Module
